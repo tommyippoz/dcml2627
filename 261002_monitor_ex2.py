@@ -11,6 +11,10 @@ import pyshark as pyshark
 NET_INT_NAME = 'Wi-Fi'
 CSV_FILENAME = "my_first_dataset.csv"
 
+####################################################################################
+# TASK: Write a monitor to detect if someone is browsing actively
+####################################################################################
+
 
 def current_milli_time():
     """

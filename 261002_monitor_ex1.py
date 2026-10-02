@@ -3,6 +3,10 @@ from datetime import datetime
 import psutil
 import time
 
+####################################################################################
+# TASK: Write a monitor to detect if someone is starting off new applications
+####################################################################################
+
 # ENV vars
 CSV_FILENAME = "my_first_dataset.csv"
 
